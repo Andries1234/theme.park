@@ -11,8 +11,6 @@ let custom_text_header = `
   / __ \\/ __ \\/ ___/ __/ ___/ __ \\/ __ '__ \\/ __ \\/ / / __ \\/ //_/
  / / / / /_/ (__  ) /_/ /  / /_/ / / / / / / /_/ / / / / / / ,&lt;   
 /_/ /_/\\____/____/\\__/_/   \\____/_/ /_/ /_/\\____/_/_/_/ /_/_/|_|  
-                                                                 
-
-</pre> </div>
+                                                                 </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
