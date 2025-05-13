@@ -17,7 +17,6 @@ let custom_text_header = `
   ░ ▒ ▒░ ░ ░░   ░ ▒░░ ░▒  ░ ░░ ░░   ░ ▒░ ░ ░  ░░ ░▒  ░ ░░ ░▒  ░ ░ ▒ ░ ░ ░  ░
 ░ ░ ░ ▒     ░   ░ ░ ░  ░  ░     ░   ░ ░    ░   ░  ░  ░  ░  ░  ░   ▒ ░   ░   
     ░ ░           ░       ░           ░    ░  ░      ░        ░   ░     ░  ░
-                                                                            
-</pre> </div>
+                                                                            </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
